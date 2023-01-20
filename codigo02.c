@@ -5,7 +5,7 @@
 int main () 
 {
     int x, senha;
-    senha = 1234;
+    senha = 0123;
 
     printf("Digite a senha de acesso: ****\n");
     scanf("%d", &x);
